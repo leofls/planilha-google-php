@@ -1,0 +1,18 @@
+{
+    "name": "leandro/planilha-google-php",
+    "description": "Conect google planilha",
+    "autoload": {
+        "psr-4": {
+            "Leandro\\PlanilhaGooglePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro F.",
+            "email": "leandro.dev25@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
